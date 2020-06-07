@@ -25,5 +25,6 @@ attr_reader :id
     
     def self.drop_table
       
+      
   
 end
